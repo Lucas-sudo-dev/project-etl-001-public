@@ -13,7 +13,7 @@ Desafio consiste em extrair um arquivo csv de músicas populares do Spotify, efe
 
 <div align="center">
 
-<img alt="etl-poo" height="450" width="500" src="https://github.com/Lucas-sudo-dev/project-001-public/blob/main/image/etl-poo.png">
+<img alt="etl-poo" height="450" width="500" src="https://github.com/Lucas-sudo-dev/project-etl-001-public/blob/main/image/etl-poo.png">
 
 </div>
 
